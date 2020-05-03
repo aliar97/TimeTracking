@@ -10,13 +10,13 @@ By knowing how long each task takes in a work order, manufactures get better ins
 # Track your entire plant right at your fingertips
 Manange your work orders in three easy steps.
 ## Pick your profile
-![Profile selection](./profileScreen.png)
+![Profile selection](./profileScreen.jpg)
 
 ## Pick a work order
-![pick workorder](./startJob.png)
+![pick workorder](./startJob.jpg)
 
 ## Start time tracking 
-![manage time tracking](./pauseResumeJob.png)
+![manage time tracking](./pauseResumeJob.jpg)
 
 Try out our demo [here](https://projects.invisionapp.com/share/9YWTVMLAKZ3#/screens "app demo").
 
