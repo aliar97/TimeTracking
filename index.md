@@ -25,6 +25,9 @@ Try out our demo [here](https://projects.invisionapp.com/share/9YWTVMLAKZ3#/scre
 Through voice devices like Alexa, a user can start, pause, and complete work orders with the ease of just using their voice. [Try](https://creator.voiceflow.com/demo/3318901323958412 "Voice flow demo")
  out our demo today!
 
+# Hand Off
+After May 22nd, the XLR8 team will no longer be working with Xemelgo. We are handing the rest of the project to Akhila Tadinada at akhila.tadinada@xemelgo.com.
+
 # Contact us
 Anant Rajeev: anantr@uw.edu
 
